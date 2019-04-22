@@ -29,7 +29,7 @@ namespace Dirana3Tuner
 
         private void macTrackBar1_ValueChanged(object sender, decimal value)
         {
-            label1.Text = ((float)macTrackBar1.Value / 100.0).ToString("N2");
+
         }
 
         
