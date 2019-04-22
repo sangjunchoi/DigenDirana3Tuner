@@ -7,14 +7,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using XComponent.SliderBar;
 
 namespace Dirana3Tuner
 {
-    public partial class Form1 : Form
+    public partial class AudioControlForm : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public AudioControlForm()
         {
             InitializeComponent();
+        }
+
+        private void trackBarChangedEvent(object sender, decimal value)
+        {
+
         }
     }
 }

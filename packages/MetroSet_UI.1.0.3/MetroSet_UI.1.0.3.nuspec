@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MetroSet_UI</id>
+    <version>1.0.3</version>
+    <title>MetroSet UI Framework</title>
+    <authors>Narwin</authors>
+    <owners>Narwin</owners>
+    <licenseUrl>https://raw.githubusercontent.com/N-a-r-w-i-n/MetroSet-UI/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/N-a-r-w-i-n/MetroSet-UI</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/N-a-r-w-i-n/MetroSet-UI/master/MetroSetUI.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Windows Forms Metro Style Skin for .NET applications. 
+
+Supported platforms:
+
+Windows XP
+Windows Vista
+Windows 7
+Windows 8
+Windows 10</description>
+    <summary>Windows Forms Metro Skin Style, Make The .NET Applications With Metro Styles.</summary>
+    <releaseNotes>- Added Resize Abillity to the form.
+- Added the drop shadow effect on form.
+- Reviewed the whole project and fixed many stuff.
+- Made a lot of improvements.
+- Bring more functionality to the project.</releaseNotes>
+    <copyright>Narwin</copyright>
+    <language>en-US</language>
+  </metadata>
+</package>
