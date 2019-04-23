@@ -38,7 +38,7 @@ namespace Dirana3Tuner
             Button r_button = (Button)sender;
             if (e.Button == MouseButtons.Right)
             {
-                initFrequency(r_button);
+               // initFrequency(r_button);
             }
             else
             {
