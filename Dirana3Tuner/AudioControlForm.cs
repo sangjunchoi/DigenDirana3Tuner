@@ -20,7 +20,7 @@ namespace Dirana3Tuner
 
         private void trackBarChangedEvent(object sender, decimal value)
         {
-		Console.WriteLine("a");
+		
         }
     }
 }
